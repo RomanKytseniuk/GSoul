@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GSoul/static/css/main.9388c293.css",
+    "main.js": "/GSoul/static/js/main.101d2892.js",
+    "static/js/787.90a226c3.chunk.js": "/GSoul/static/js/787.90a226c3.chunk.js",
+    "index.html": "/GSoul/index.html",
+    "main.9388c293.css.map": "/GSoul/static/css/main.9388c293.css.map",
+    "main.101d2892.js.map": "/GSoul/static/js/main.101d2892.js.map",
+    "787.90a226c3.chunk.js.map": "/GSoul/static/js/787.90a226c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9388c293.css",
+    "static/js/main.101d2892.js"
+  ]
+}
